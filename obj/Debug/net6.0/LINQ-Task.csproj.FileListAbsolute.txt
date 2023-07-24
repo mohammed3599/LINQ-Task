@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\bin\Debug\net6.0\LINQ-Task.exe
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\bin\Debug\net6.0\LINQ-Task.deps.json
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\bin\Debug\net6.0\LINQ-Task.runtimeconfig.json
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\bin\Debug\net6.0\LINQ-Task.dll
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\bin\Debug\net6.0\LINQ-Task.pdb
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.dll
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\refint\LINQ-Task.dll
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.pdb
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\LINQ-Task.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\LINQ-Task\LINQ-Task\obj\Debug\net6.0\ref\LINQ-Task.dll
